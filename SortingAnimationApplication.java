@@ -1,16 +1,3 @@
-/*********************************************************************************************************                                                                                                       
- *  CSCI 473/504       Java Final Project         Fall 2018                                              *                                           
- *                                                                                                       *
- *  Programmer's Name : Sandeep Alla (z1821331)                                                          *
- *                                                                                                       *
- *  Date Due  : December 10th, 2018      File : SortingAnimationApp.java                                 *                          
- *                                                                                                       *
- *  Purpose   : Sorting Animation Application                                                            *   
- *                                                                                                       *   
- *                                                                                                       *
- *                                                                                                       *
- *********************************************************************************************************/
-
 import javax.swing.JFrame;
 import java.awt.GridLayout;
 
