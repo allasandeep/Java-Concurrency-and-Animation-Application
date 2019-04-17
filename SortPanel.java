@@ -1,13 +1,3 @@
-/*********************************************************************************************************                                                                                                       
- *  CSCI 473/504       Java Final Project         Fall 2018                                              *                                           
- *                                                                                                       *
- *  Programmer's Name : Sandeep Alla (z1821331)                                                          *
- *                                                                                                       *
- *  Date Due  : December 10th, 2018      File : SortPanel.java                                           *
- *                                                                                                       *   
- *                                                                                                       *
- *                                                                                                       *
- *********************************************************************************************************/
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
